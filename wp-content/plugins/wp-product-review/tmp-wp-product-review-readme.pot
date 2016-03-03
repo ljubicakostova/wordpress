@@ -1,0 +1,564 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WP Product Review"
+msgstr ""
+
+#. Short description.
+msgid "Easily turn your basic posts into in-depth reviews with ratings, pros and cons, affiliate links, rich snippets and user reviews."
+msgstr ""
+
+#. Screenshot description.
+msgid "Screenshot 1 Wrap-up review widget that is added at the end of the posts"
+msgstr ""
+
+#. Screenshot description.
+msgid "Screenshot 2 User Review Options added to wp comments"
+msgstr ""
+
+#. Screenshot description.
+msgid "Screenshot 3 Fully configurable theme options"
+msgstr ""
+
+#. Screenshot description.
+msgid "Screenshot 4 Rich Snippets displayed in Google"
+msgstr ""
+
+#. Found in description header.
+msgid "Why to get the PRO add-ons ?"
+msgstr ""
+
+#. Found in description header.
+msgid "Knowledgebase"
+msgstr ""
+
+#. Found in description header.
+msgid "User Review Enabled"
+msgstr ""
+
+#. Found in description header.
+msgid "Translations"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom Review Icons"
+msgstr ""
+
+#. Found in description list item.
+msgid "Preloader functionality"
+msgstr ""
+
+#. Found in description list item.
+msgid "Unlimited Options"
+msgstr ""
+
+#. Found in description list item.
+msgid "PROs/ Cons"
+msgstr ""
+
+#. Found in description list item.
+msgid "How to change the html format of the review name -&gt; http://docs.themeisle.com/article/130-how-to-change-the-html-format-of-the-review-name"
+msgstr ""
+
+#. Found in description list item.
+msgid "How to change dynamically the name of the review -&gt; http://docs.themeisle.com/article/131-how-to-change-dynamically-the-name-of-the-review"
+msgstr ""
+
+#. Found in description list item.
+msgid "How to change dynamically the option name format -&gt; http://docs.themeisle.com/article/132-how-to-change-dynamically-the-option-name-format"
+msgstr ""
+
+#. Found in description list item.
+msgid "How to change dynamically the pros/cons heading text -&gt; http://docs.themeisle.com/article/133-how-to-change-dynamically-the-pros-cons-heading-text"
+msgstr ""
+
+#. Found in description list item.
+msgid "How to change dynamically the image size for review -&gt; http://docs.themeisle.com/article/135-how-to-change-dynamically-the-image-size-for-review"
+msgstr ""
+
+#. Found in description list item.
+msgid "<p>This review plugin helps you to interact with your users with improved comments, you can expose your reviews in a easier to read way and will help you generate money by adding a buy now button in your post. Rich snippets are also supported.</p>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<p>After you install the plugin, go on a post admin page and you should be able to see a checkbox called : \"Is this post a review ?\", once this is checked you can add review details and those will appear on the post page.</p>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<p>If you want to to edit the colors, enable/disable the affiliate button, change icons go on the plugin options page.</p>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<p>All the plugin settings/colors are fully customizable, and you can read more about it <a rel=\"friend\" href=\"https://themeisle.com/plugins/wp-product-review-lite/?utm_source=wpreadme&amp;utm_medium=readme&amp;utm_campaign=wporg\">here</a></p>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<p>For updates follow https://twitter.com/themeisle.</p>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Direct amazon integration"
+msgstr ""
+
+#. Found in description list item.
+msgid "Automatic landing page generation from the reviewed products"
+msgstr ""
+
+#. Found in description list item.
+msgid "Easily embed multiple products in posts/pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create a top products review widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "Easily update all the colors of the widget from theme options"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add a download button in the posts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add an awesome wrap-up widget at the end of your articles"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add specific user review options to wordpress comments"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add rich snippet ( schema ) to your posts"
+msgstr ""
+
+#. Found in description list item.
+msgid "sk_SK translation by Patrik Žec (PATWIST) of http://patwist.com"
+msgstr ""
+
+#. Found in description list item.
+msgid "fr_FR translation by Jacques Soule of http://wordpress-pour-vous.com/"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want to see a live demo of the review plugin + rich snippets you can check <a href=\"http://dev2.themeisle.com/reviewgine/?p=11\">http://dev2.themeisle.com/reviewgine/?p=11</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Using the add-ons you will unleash the most important functionality : SHORTCODE . Using something like : [P_REVIEW post_id=3067 visual='full'] you are able to display the review box anywhere in the post, or you can even display 5 boxes in the same page (different products)."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Other notable features :"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This review plugin helps you to interact with your users with improved comments, you can expose your reviews in a easier to read way and will help you generate money by adding a buy now button in your post. Rich snippets are also supported."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "After you install the plugin, go on a post admin page and you should be able to see a checkbox called : \"Is this post a review ?\", once this is checked you can add review details and those will appear on the post page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want to to edit the colors, enable/disable the affiliate button, change icons go on the plugin options page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "All the plugin settings/colors are fully customizable, and you can read more about it <a rel=\"friend\" href=\"https://themeisle.com/plugins/wp-product-review-lite/?utm_source=wpreadme&amp;utm_medium=readme&amp;utm_campaign=wporg\">here</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For updates follow https://twitter.com/themeisle."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you wanna learn more about the <a href=\"http://www.codeinwp.com/blog/fastest-wordpress-hosting/\" rel=\"friend\">fastest WordPress hosting</a> or which <a href=\"http://www.codeinwp.com/blog/15-best-wordpress-review-themes/\" rel=\"friend\">review themes</a> are playing nice with WP Product review, checkout our blog."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Fortcoming</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>WP Product Review provides following features</strong>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the latest version of the WP Product Review to your computer from here."
+msgstr ""
+
+#. Found in installation list item.
+msgid "With an FTP program, access your site?s server."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload (copy) the Plugin file(s) or folder to the /wp-content/plugins folder."
+msgstr ""
+
+#. Found in installation list item.
+msgid "In your WordPress Administration Panels, click on Plugins from the menu."
+msgstr ""
+
+#. Found in installation list item.
+msgid "You should see WP Product Review Plugin listed. If not, with your FTP program, check the folder to see if it is installed. If it isn?t, upload the file(s) again. If it is, delete the files and upload them again."
+msgstr ""
+
+#. Found in installation list item.
+msgid "To turn the WP Product Review on, click Activate."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Check your Administration Panels or WordPress blog to see if the Plugin is working."
+msgstr ""
+
+#. Found in installation list item.
+msgid "You can change the plugin options from Tweet Old Posts under settings menu."
+msgstr ""
+
+#. Found in installation list item.
+msgid "In your WordPress Administration Panels, click on Add New option under Plugins from the menu."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click on upload at the top."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Browse the location and select the WP Product Review Plugin and click install now."
+msgstr ""
+
+#. Found in installation list item.
+msgid "To turn the WP Product Review Plugin on, click Activate."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Following are the steps to install the WP Product Review"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Alternatively you can also follow the following steps to install the WP Product Review plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some design issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed rating problem on some instalation when display the numerator greater than denominator"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added wppr_review_image_size for filter the image size;"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed responsive design bugs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed border color and width customization for the review box"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved design of the featured image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filters heading tags for review name, option name, pros headings and cons headings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved responsive design of the review"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with rating value when visitator influence is off"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with auto optimization plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to remove loading of Font Awesome for websites that already enque it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed microtags when is 0% visitator influence."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed multiple display of review where  <!--nextpage--> quick tag is used."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed layout problem with widgets on some themes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new image size for widgets 'wppr_widget_image' for 50x50. ( Requires thumbnail regeneration to use it )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed custom icons bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed sorting order to top products widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 100% influence on visitators rating"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added  rel=\"nofollow\" for img link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug for password protected reviews."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed long text for product titles in widgets"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed unecessary css"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added thumbnails for reviews"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when no image is set for reviews"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed reset button for product options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to disable lightbox for review image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed rich snippet bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed loading of the assets files where the plugin is not used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added multiple addons including ranking chart"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed image in post issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Improved preloader logic</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Fixed issue with more than 5 options</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to modify the chart color"
+msgstr ""
+
+#. Found in changelog list item, changelog paragraph.
+msgid "Fixed issue with more than 5 options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the image affiliate link issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved responsive for the review box"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now you can place the review box manually using php or shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added multiple options/ pros/ cons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed rich snippet issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved image linking"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed sticky posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Aff button2 link/text"
+msgstr ""
+
+#. Found in changelog list item, changelog paragraph.
+msgid "Fixed js errors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed latest widget issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Added possibility of having 2 affiliate buttons</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Fixed js errors</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed division by zero"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added image and product title options in widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added lightbox on product review image, that preload image from the featured image"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "User is now able to select in admin how much user reviews will influence the main rating"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added [P_REVIEW post_id=3067 visual=\"yes\"] shortcode in the PRO version, without visual attribute only the rating is displayed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed upgrade to pro issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed translation issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added custom icons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added price attribute"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in 2.7.1</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in 2.7</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in 2.6.9</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in 2.6.8</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in 2.6.7</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v.2.6.6</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v.2.6.4</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v.2.6.3</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v.2.6.2</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v.2.6.1</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.5.2</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Improved preloader logic"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.4.7</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.4.5</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.4.3</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.4.2</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Added possibility of having 2 affiliate buttons"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.4.1</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.4</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.3</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.29</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>New in v2.28</strong>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "How to activate user reviews ?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "By default user reviews are disabled since not all the themes are compatible with this option due to different designs for the comment box. You can easily activate them from General Settings"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"If you have any questions please get in touch with us at,\n"
+"https://themeisle.com/contact"
+msgstr ""

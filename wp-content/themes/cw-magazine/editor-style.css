@@ -1,0 +1,8 @@
+@import url( 'style.css' );
+
+/* Add overwrites as needed so that the content of the editor field is attractive and not broken */
+body { padding: 0; background: #fff; } 
+.main-menu{
+    border-top-left-radius: 9px !important;
+    border-top-right-radius: 9px !important;
+}
