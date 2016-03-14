@@ -31,7 +31,7 @@ define('DB_PASSWORD', 'TXS1snURah4x');
 
 /** MySQL hostname */
 // define('DB_HOST', 'localhost');
-define('DB_HOST', getenv('OPENSHIFT_MYSQL_DB_HOST') . ':' . getenv('OPENSHIFT_MYSQL_DB_PORT'));
+define('DB_HOST', 'https://sex3-advicer.rhcloud.com/phpmyadmin/');
 
 
 /** Database Charset to use in creating database tables. */
