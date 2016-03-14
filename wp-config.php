@@ -21,17 +21,17 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 #define('DB_NAME', 'wordpress');
-define('DB_NAME', 'sql7110707');
+define('DB_NAME', 'sex4');
 
 /** MySQL database username */
-define('DB_USER', 'sql7110707');
+define('DB_USER', 'adminW7mwSqz');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'mqe2quDZC2');
+define('DB_PASSWORD', 'm6HdsC4GFuUK');
 
 /** MySQL hostname */
 // define('DB_HOST', 'ec2-46-137-125-22.eu-west-1.compute.amazonaws.com');
-define('DB_HOST', 'sql7.freemysqlhosting.net');
+define('DB_HOST', 'https://sex4-advicer.rhcloud.com/phpmyadmin/');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
