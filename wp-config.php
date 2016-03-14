@@ -33,6 +33,7 @@ define('DB_PASSWORD', 'm6HdsC4GFuUK');
 define('DB_HOST', 'https://sex4-advicer.rhcloud.com/phpmyadmin/');
 
 
+
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
 
