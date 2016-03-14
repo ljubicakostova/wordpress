@@ -30,7 +30,7 @@ define('DB_USER', 'adminW7mwSqz');
 define('DB_PASSWORD', 'm6HdsC4GFuUK');
 
 
-define('DB_HOST', 'https://sex4-advicer.rhcloud.com/');
+define('DB_HOST', 'https://sex4-advicer.rhcloud.com/phpmyadmin/');
 
 
 
