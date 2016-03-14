@@ -21,17 +21,17 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 #define('DB_NAME', 'wordpress');
-define('DB_NAME', 'sex3');
+define('DB_NAME', 'sex4');
 
 /** MySQL database username */
-define('DB_USER', 'adminGw2CxXC');
+define('DB_USER', 'adminW7mwSqz');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'TXS1snURah4x');
+define('DB_PASSWORD', 'm6HdsC4GFuUK');
 
 /** MySQL hostname */
 // define('DB_HOST', 'localhost');
-define('DB_HOST', 'https://sex3-advicer.rhcloud.com/phpmyadmin/');
+define('DB_HOST', 'https://sex4-advicer.rhcloud.com/phpmyadmin/');
 
 
 /** Database Charset to use in creating database tables. */
